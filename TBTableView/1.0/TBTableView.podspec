@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author = { "Lisapple" => "me@lisacintosh.com" }
   s.platform = :osx, '10.6'
   s.requires_arc = true
-  s.source = { :git => "https://github.com/Lisapple/TBTableView.git", :tag => "1.0" }
+  s.source = { :git => "https://github.com/Lisapple/TBTableView.git", :tag => "v1.0" }
   s.source_files = 'Classes/*.{h,m}', 'Classes/Additions/*.{h,m}',
   s.exclude_files = 'Example'
 end
