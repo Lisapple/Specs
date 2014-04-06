@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "TBTableView"
-  s.version = "v1.0"
+  s.version = "1.0"
   s.summary = "TBTableView is a view-based table view from Tea Box application."
   s.homepage = "https://github.com/Lisapple/TBTableView"
   s.screenshots = "https://github.com/Lisapple/TBTableView/blob/master/Example/Screen%20Shot.png"
