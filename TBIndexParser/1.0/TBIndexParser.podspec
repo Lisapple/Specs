@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.platform = :osx, '10.6'
   s.requires_arc = true
   s.source = { :git => "https://github.com/Lisapple/TBIndexParser.git", :tag => "v1.0" }
-  s.source_files = '*.{h,m}'
+  s.source_files = '*.{h,m,html}'
   s.exclude_files = 'Example'
 end
